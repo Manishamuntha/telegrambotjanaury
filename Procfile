@@ -1,2 +1,2 @@
-worker: python project.py  
+worker: python project.py   
  
